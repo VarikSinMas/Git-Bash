@@ -27,8 +27,8 @@
 
 ### **RESUMEN DE COMANDOS**  
   
-  | COMANDO             |  UTILIDAD   |  |  |
-|-------------------|-------------|---------------|--------------|
+  | COMANDO             |  UTILIDAD   | 
+|-------------------|-------------|
 | clear   | Limpiar consola    
 | pwd        | Muestra ruta la ruta de trabajo       
 | cd ..  | Bajar 1 posicion de directorio 
